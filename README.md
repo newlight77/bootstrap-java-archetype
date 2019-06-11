@@ -1,7 +1,6 @@
 # bootstrap-java8-archetype
-======================================
 
-The project is a Maven archetype for Java embedding JUnit 5 and AssertJ dependencies
+The project is a Maven archetype for to generate a Java project with JUnit 5 and AssertJ dependencies
 
 ## Prerequisites
 
